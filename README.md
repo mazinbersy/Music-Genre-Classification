@@ -4,7 +4,7 @@ This project classifies music tracks into **10 genres** using two different appr
 
 1. **Feature Extraction + XGBoost (Tabular Data)**
 2. **Spectrograms + Convolutional Neural Network (Image Data)**
-3. 3. **Spectrograms + Transfer Learning (VGG16)**
+3. **Spectrograms + Transfer Learning (VGG16)**
 
 Dataset used: [GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) (10 genres, 1000 audio files).
 
